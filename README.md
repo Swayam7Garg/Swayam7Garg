@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi, I'm Swayam 👋
+
+I'm a DSA & ML enthusiast building cool projects and leveling up my backend skills.
+
+## 🛠 Skills
+- **Languages:** C++, Python, Java
+- **Frameworks:** Spring Boot, Flask
+- **Tools:** Git, Docker, SQL
+
 
 <!--
 **Swayam7Garg/Swayam7Garg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
